@@ -1,4 +1,4 @@
-# BN - BitcoinName
+# BN:// - BitcoinName
 Bitcoin alias protocol
 
 ## Links
