@@ -43,6 +43,3 @@ The alias sender combination prevents an unauthorized one from changing state.
 *  An API that resolves BN: // links to txids or an API that returns even the file data can be built.
 *  maybe add a type field to simulate something like directories.
 *  state reset/delete actions
-
-
-@SH
