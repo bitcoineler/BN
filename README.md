@@ -19,7 +19,7 @@ Example BN:// (Pointer **can be changed**, because the state of the entry can be
 
 ## Protocol
 
-- The prefix for BN is [19iG3WTYSsbyos3uJ733yK4zEioi1FesNU](https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogewogICAgICAib3V0LnMxIjogIjE5aUczV1RZU3NieW9zM3VKNzMzeUs0ekVpb2kxRmVzTlUiCiAgICB9LAogICAgImxpbWl0IjogMTAKICB9LAogICJyIjogewogICAgImYiOiAiWy5bXSB8IHsgdHJhbnNhY3Rpb246IC50eC5oLCBibG9jazogLmJsaywgc2VuZGVyOiAuaW5bMF0uZS5hLCBwdXNoZGF0YTogeyBzZW5kZXI6IC5vdXRbMF0uczEsIGFsaWFzOiAub3V0WzBdLnMyLCBwb2ludGVyOiAub3V0WzBdLnMzIH0gfV0iCiAgfQp9), generated using [Bitcom](https://bitcom.bitdb.network)
+- The prefix for BN is [19iG3WTYSsbyos3uJ733yK4zEioi1FesNU](https://genesis.bitdb.network/query/1FnauZ9aUH2Bex6JzdcV4eNX7oLSSEbxtN/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogewogICAgICAiaW4uZS5hIjogIjE5aUczV1RZU3NieW9zM3VKNzMzeUs0ekVpb2kxRmVzTlUiLAogICAgICAib3V0LnMxIjogIiQiCiAgICB9LAogICAgInNvcnQiOiB7CiAgICAgICJ0aW1lc3RhbXAiOiAxCiAgICB9LAogICAgImxpbWl0IjogMTAKICB9Cn0=), generated using [Bitcom](https://bitcom.bitdb.network)
 
 The BN: // protocol should point to the TxID e.g. of a B: // file and thus forms another layer which state can be overwritten.
 
