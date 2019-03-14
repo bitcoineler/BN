@@ -40,7 +40,7 @@ OP_RETURN
 *  alias: name,filename,alias
 *  pointer: txid of b:// or c://
 *  type: 'c' or 'b'
-*  sequence: only needed if multiple tx(update) in same block. sequence is a number, higher number tx overwrites the lower one.
+*  sequence: only needed if multiple tx(update) in same block. sequence is a number, higher number tx overwrites the lower one. everything what is not number is translated to 1.
 
 
 #### Overwrite BN:// State
