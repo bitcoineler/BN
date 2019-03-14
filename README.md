@@ -37,6 +37,12 @@ OP_RETURN
   [sequence]
 ```
 
+*  alias: name,filename,alias
+*  pointer: txid of b:// or c://
+*  type: 'c' or 'b'
+*  sequence: only needed if multiple tx(update) in same block. sequence is a number, higher number tx overwrites the lower one.
+
+
 #### Overwrite BN:// State
 New transactions with the same alias from a sender automatically override the old state. Protocol API always outputs only the most current state.
 The alias sender combination prevents an unauthorized one from changing state.
